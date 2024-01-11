@@ -1,8 +1,8 @@
 import React from 'react'
-import Appps from './components/log'
+import Login from './components/login'
 const App = () => {
   return (
-    <Appps />
+    <Login/>
   )
 }
 
